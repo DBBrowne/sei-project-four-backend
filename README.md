@@ -1,7 +1,7 @@
 # Heard
 Find live music near you!
 
-[![Prod](https://github.com/DBBrowne/sei-project-four-frontend/actions/workflows/test-main.yml/badge.svg)](https://github.com/DBBrowne/sei-project-four-frontend/actions/workflows/test-main.yml) [![Dev](https://github.com/DBBrowne/sei-project-four-frontend/actions/workflows/test-dev.yml/badge.svg)](https://github.com/DBBrowne/sei-project-four-frontend/actions/workflows/test-dev.yml)
+[![Prod](https://github.com/DBBrowne/sei-project-four-frontend/actions/workflows/test-main.yml/badge.svg)](https://github.com/DBBrowne/sei-project-four-frontend/actions/workflows/test-main.yml) [![Dev](https://github.com/DBBrowne/sei-project-four-frontend/actions/workflows/test-dev.yml/badge.svg)](https://github.com/DBBrowne/sei-project-four-frontend/actions/workflows/test-dev.yml) [![Netlify Status](https://api.netlify.com/api/v1/badges/e1c95588-b05b-434f-aab3-b4ec87b8bdac/deploy-status)](https://app.netlify.com/sites/mellow-praline-f2c3c8/deploys)
 ## Contents
 - [Title](#title)
 - [Demos](#demos)
