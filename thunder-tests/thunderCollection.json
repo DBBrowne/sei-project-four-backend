@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "17e076c3-709d-4568-8331-87ab776046e2",
+    "colName": "Heard",
+    "created": "2022-01-28T13:58:12.519Z",
+    "sortNum": 10000,
+    "folders": [
+      {
+        "_id": "336f1ef0-c05d-43f6-aad8-1e9144c6774f",
+        "name": "Events",
+        "containerId": "",
+        "created": "2022-02-10T20:28:40.276Z",
+        "sortNum": 10000
+      }
+    ]
+  }
+]
